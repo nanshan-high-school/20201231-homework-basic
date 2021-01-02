@@ -1,4 +1,7 @@
-#
+# 20201231 作業
+
+1. TOI 練習賽 12 月內容（flag.cpp、spelling.cpp、abbreviation.cpp）
+2. 請使用 `vector<int>` 將使用者輸入的數字存入 vector 中，直到輸入 0 為止。接者再使用迴圈輸出該 vector 中的內容。
 
 ---
 
