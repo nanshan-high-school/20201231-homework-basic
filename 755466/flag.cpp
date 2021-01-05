@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int R, C, fail = 0, num;//�C��
+    int R, C, fail = 0, num;
     cin >> R >> C;
     int S[R + 1][C + 1];
 
